@@ -52,7 +52,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 - [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio/)
 
-<img src="Portfolio-mobile-version(iPhone SE).png" alt="Portfolio-mobile-version(iPhone SE)" width="auto"  height="auto" />
+<img src="Portfolio-mobile-version(iPhone SE).png" alt="Portfolio-mobile-version(iPhone SE)" width="200px"  height="400px" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
