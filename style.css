@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #F7F7F9;
+}
+
+.hero {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  background: #FFFFFF;;
+  border-bottom-left-radius: 5rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 1em auto;
+    margin-top: 0px;
+    padding-top: 16px;
+  }
+  
+  .header-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #6070ff;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .hamburger {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding-right: 0.2em;
+    cursor: pointer;
+  }
+
+  .stroke {
+    width: 20px;
+    height: 3px;
+    background-color: #6070ff;
+    border-radius: 8px;
+    list-style-type: none;
+  }
+
+  .hero-intro {
+    width: 100%;
+    height: auto;
+    background-image: url("Assets/header-shapes\ mobile.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+    /* border-bottom-left-radius: 5rem; */
+  }
+
+  .hero-intro-container {
+    width: 90%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .hero-intro-heading {
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 52px;
+    width: 100%;
+    height: max-content;
+    color: #172b4d;
+    padding-top: 2.5em;
+    /* padding-left: 16px; */
+    margin-bottom: 1rem;
+  }
+
+  .hero-intro-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  text-align: left;
+  margin-bottom: 1rem;
+  /* padding-left: 16px; */
+  }
+
+  .hero-intro-connect {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7f8cff;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .social-icons {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1.5em;
+    cursor: pointer;
+    list-style-type: none;
+    padding-bottom: 5rem;
+  }
+
+  .icons:hover {
+    background: lightgrey;
+  }
