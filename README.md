@@ -12,14 +12,18 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
+  - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -31,14 +35,36 @@
 
 > A "portfolio" HTML-5 & CSS3 repository built during the portal learning module.
 
-It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CSS3 flexbox and figma.
+It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CSS3 flexbox, grid and figma.
 
 ## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
 
 - HTML-5
 - CSS3
 - Linters
 - Figma
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://github.com/Chandan-devs-tech/Portfolio/blob/master/.github/workflows/linters.yml">Linters</a></li>
+    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Key features of the application.
+
+- **[Navigation bar]**
+- **[Header section - Introduction]**
+- **[Work Portfolio section - Project description]**
+- **[About Section - About Myself]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,7 +76,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 - [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio/)
 
-<img src="Portfolio-mobile-version(iPhone SE).png" alt="Portfolio-mobile-version(iPhone SE)" width="200px"  height="400px" />
+<img src="Portfolio-Finish-Mobile-Version(iPhone SE).png" alt="Portfolio-Finish-Mobile-Version(iPhone SE)" width="400px"  height="800px" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,6 +100,10 @@ Install this project with:
 
 - Open your command prompt or terminal and run.
 - git clone https://github.com/Chandan-devs-tech/Portfolio.git
+
+### Usage
+
+-  I can help in building a product , feature or website Look through some of my work and experience! don’t hestiate to contact me.
 
 ### Run tests
 
@@ -100,6 +130,17 @@ To run tests, run the following command:
 - Twitter: @ChandanGuptaDev
 - LinkedIn: www.linkedin.com/in/chandangupta-devs
 - Slack: @Chandan Gupta
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Features to be added:
+
+- [ ] **[To Add Contact-Form To The Page]**
+- [ ] **[To Work On A Footer Section]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,6 +174,6 @@ Major thanks to [Nemwel Boniface](https://twitter.com/nemwel_bonie)
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Chandan-devs-tech/Portfolio/blob/feature/mobile-version-homepage/MIT.md) licensed.
+This project is [MIT](https://github.com/Chandan-devs-tech/Portfolio/blob/feature/homepage/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
