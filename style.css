@@ -362,7 +362,7 @@ header {
   width: 100%;
 }
 
-.lang-title h3 {
+.lang-text {
   padding-bottom: 16px;
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -372,14 +372,16 @@ header {
   display: flex;
   align-items: center;
   color: #000;
+  list-style-type: none;
 }
 
-.lang-title img {
+.lang-img {
   width: 15px;
   height: 26px;
   position: relative;
   left: -25px;
   top: -6px;
+  list-style-type: none;
 }
 
 .lang {
@@ -427,14 +429,16 @@ header {
   font-size: 1.3rem;
   line-height: 24px;
   color: #000;
+  list-style-type: none;
 }
 
-.framework img {
+.frame-img {
   width: 15px;
   height: 15px;
   position: relative;
   left: -25px;
   top: 0;
+  list-style-type: none;
 }
 
 .skill {
@@ -454,14 +458,16 @@ header {
   font-size: 1.3rem;
   line-height: 24px;
   color: #000;
+  list-style-type: none;
 }
 
-.skill img {
+.skill-img {
   width: 15px;
   height: 15px;
   position: relative;
   left: -25px;
   top: 0;
+  list-style-type: none;
 }
 
 hr.new1 {
