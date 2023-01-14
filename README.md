@@ -76,7 +76,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 - [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio/)
 
-<img src="Portfolio-Finish-Mobile-Version(iPhone SE).png" alt="Portfolio-Finish-Mobile-Version(iPhone SE)" width="400px"  height="800px" />
+- [IMAGE- Portfolio-Finish-Mobile-Version(iPhone SE).png](https://github.com/Chandan-devs-tech/Portfolio/blob/feature/finish-mobile-version/Portfolio-Finish-Mobile-Version(iPhone%20SE).png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
