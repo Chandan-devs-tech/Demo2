@@ -205,7 +205,7 @@ header {
 .card-lang {
   /* display: flex;
   justify-content: flex-start; */
-  /* gap: 18px; */
+  /* gap: 8px; */
   list-style-type: none;
   margin: 12px 15px;
 }
@@ -222,6 +222,7 @@ header {
   background: #ebebff;
   border-radius: 8px;
   float: left;
+  margin-right: 8px;
 }
 
 .card-btn {
