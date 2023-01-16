@@ -203,9 +203,9 @@ header {
 }
 
 .card-lang {
-  display: flex;
-  justify-content: flex-start;
-  gap: 8px;
+  /* display: flex;
+  justify-content: flex-start; */
+  /* gap: 18px; */
   list-style-type: none;
   margin: 12px 15px;
 }
@@ -221,6 +221,7 @@ header {
   padding: 4px 12px;
   background: #ebebff;
   border-radius: 8px;
+  float: left;
 }
 
 .card-btn {
