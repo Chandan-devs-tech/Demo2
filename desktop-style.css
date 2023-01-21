@@ -120,6 +120,9 @@
     padding-bottom: 1.5rem;
     margin-bottom: 0;
   }
+  .facebook-card {
+    margin-left: 25px;
+  }
 
   .card-info {
     margin-top: 0;
@@ -163,14 +166,20 @@
 
   .card-btn {
     margin-top: 20px;
-    background-color: #4053fc;
+    background-color: #6070FF;
     color: #fff;
     cursor: pointer;
   }
 
   .card-btn:hover {
-    color: #396df2;
+    color: #6070FF;
     background-color: #fff;
+    transition: 1s ease-in-out;
+  }
+
+  .card-btn:active {
+    color: #fff;
+    background-color: #2230D2;
     transition: 1s ease-in-out;
   }
 
