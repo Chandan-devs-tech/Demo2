@@ -85,8 +85,7 @@
     border: 1px solid #dfe1e6;
     margin-top: 88px;
     display: flex;
-
-    /* align-items: center; */
+    align-items: center;
     flex-direction: row-reverse;
     width: 100%;
   }
