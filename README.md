@@ -76,7 +76,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 - [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio/)
 
-- [IMAGE- Portfolio-Finish-Mobile-Version(iPhone SE).png](https://github.com/Chandan-devs-tech/Portfolio/blob/feature/finish-mobile-version/Portfolio-Finish-Mobile-Version(iPhone%20SE).png)
+- [IMAGE- Portfolio-Finish-Mobile-Version(iPhone SE).png](https://github.com/Chandan-devs-tech/Portfolio/commit/a4cda608afc4b43d963ea1deba141a317f702397)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,8 +139,8 @@ To run tests, run the following command:
 
 > Features to be added:
 
-- [ ] **[To Add Contact-Form To The Page]**
-- [ ] **[To Work On A Footer Section]**
+- [ ] **[To Work On A Desktop-Version]**
+- [ ] **[To Add Animations and Transitions To The Portfolio]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
