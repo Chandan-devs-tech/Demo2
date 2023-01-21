@@ -48,6 +48,12 @@ header {
   cursor: pointer;
 }
 
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+}
+
 .stroke {
   width: 20px;
   height: 3px;
@@ -133,6 +139,12 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+@media (max-width: 768px) {
+  .card-reverse {
+    display: none;
+  }
 }
 
 .card-img {
@@ -479,7 +491,7 @@ hr.new1 {
   background: #6070ff;
   background-image: url("Assets/contact\ form\ shapes-mobile.svg");
   background-repeat: no-repeat;
-  background-size: 540px 735px;
+  background-size: 480px 735px;
   border-top-left-radius: 100px;
   padding-top: 30px;
 }
@@ -563,12 +575,12 @@ hr.new1 {
 
 .form-btn {
   border: none;
-  background: #fff;
   padding: 0 13px;
   width: 142px;
   height: 48px;
   align-items: center;
   cursor: pointer;
+  background: #fff;
   border-radius: 8px;
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -580,13 +592,13 @@ hr.new1 {
   color: #6070ff;
 }
 
-.btn-center {
-  display: flex;
-  justify-content: center;
-}
-
 .form-btn:hover {
   color: #fff;
   background-color: #2230d2;
   transition: 1s ease-in-out;
+}
+
+.btn-center {
+  display: flex;
+  justify-content: center;
 }
