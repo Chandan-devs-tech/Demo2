@@ -9,6 +9,10 @@
     margin-left: 80px;
   }
 
+  .header-title:hover {
+    transform: scale(1.2);
+  }
+
   .nav-links {
     display: flex;
     gap: 1.5rem;
@@ -96,6 +100,11 @@
     margin: 0;
     margin: 24px 0;
     margin-left: 24px;
+    cursor: pointer;
+  }
+
+  .card-img:hover {
+    transform: scale(1.1);
   }
 
   .card-img img {
@@ -280,6 +289,16 @@
     text-align: center;
     width: 100%;
     padding-bottom: 1rem;
+  }
+
+  .user-name,
+  .user-message,
+  .user-email {
+    cursor: pointer;
+  }
+
+  :hover::placeholder {
+    transform: translate(10px);
   }
 
   .form-btn {
