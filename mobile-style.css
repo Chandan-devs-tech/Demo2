@@ -120,10 +120,6 @@ header {
   padding-bottom: 5rem;
 }
 
-.icons:hover {
-  background: lightgrey;
-}
-
 .cards-container {
   background: #f7f7f9;
   display: grid;
