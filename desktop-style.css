@@ -15,9 +15,8 @@
 
   .icons:hover {
     transform: scale(1.1);
-    background-color: #fff;
   }
-
+  
   .nav-links {
     display: flex;
     gap: 1.5rem;
