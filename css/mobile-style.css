@@ -65,7 +65,7 @@ header {
 .hero-intro {
   width: 100%;
   height: auto;
-  background-image: url("Assets/header-shapes\ mobile.svg");
+  background-image: url("../Assets/header-shapes\ mobile.svg");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -480,7 +480,7 @@ hr.new1 {
   height: auto;
   width: 100%;
   background: #6070ff;
-  background-image: url("Assets/contact\ form\ shapes-mobile.svg");
+  background-image: url("../Assets/contact\ form\ shapes-mobile.svg");
   background-repeat: no-repeat;
   background-size: 480px 735px;
   border-top-left-radius: 100px;

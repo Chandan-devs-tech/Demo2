@@ -45,7 +45,7 @@
     width: 100%;
     min-height: 100vh;
     margin-top: 3rem;
-    background-image: url("Assets/Desktop-BG-Image.svg");
+    background-image: url("../Assets/Desktop-BG-Image.svg");
     background-repeat: no-repeat;
     background-size: cover;
     border-bottom-left-radius: 10rem;
@@ -266,7 +266,7 @@
   /* Footer Section */
 
   .footer-container {
-    background-image: url("Assets/contact\ form\ background\ Image.svg");
+    background-image: url("../Assets/contact\ form\ background\ Image.svg");
     background-repeat: no-repeat;
     background-size: cover;
     border-top-left-radius: 8rem;
