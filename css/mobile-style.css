@@ -592,3 +592,9 @@ hr.new1 {
   display: flex;
   justify-content: center;
 }
+
+.user-name,
+.user-message,
+.user-email:focus {
+  outline: none;
+}
