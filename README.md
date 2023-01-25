@@ -75,7 +75,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 > Added a link to my deployed project.
 
-- [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio/)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
