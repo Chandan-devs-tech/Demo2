@@ -137,11 +137,6 @@ header {
   align-items: center;
 }
 
-@media (max-width: 768px) {
-  .card-reverse {
-    display: none;
-  }
-}
 
 .card-img {
   margin-top: 16px;
