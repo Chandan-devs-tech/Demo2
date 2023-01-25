@@ -65,6 +65,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 - **[Header section - Introduction]**
 - **[Work Portfolio section - Project description]**
 - **[About Section - About Myself]**
+- **[Contact-me-Section - Contact-Form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,8 +76,6 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 > Added a link to my deployed project.
 
 - [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio/)
-
-- [IMAGE-Portfolio-Mobile-Version-Contact-Form(iPhone SE).png](https://github.com/Chandan-devs-tech/Portfolio/blob/feature/contact-form/Portfolio-Mobile-Version-Contact-Form(iPhone%20SE).png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +102,7 @@ Install this project with:
 
 ### Usage
 
--  I can help in building a product , feature or website Look through some of my work and experience! don’t hestiate to contact me.
+- I can help in building a product , feature or website Look through some of my work and experience! don’t hestiate to contact me.
 
 ### Run tests
 
@@ -139,8 +138,8 @@ To run tests, run the following command:
 
 > Features to be added:
 
-- [ ] **[To Work On A Desktop-Version]**
-- [ ] **[To Add Animations and Transitions To The Portfolio]**
+- [ ] **[Portfolio: application deploy]**
+- [ ] **[Portfolio: accessibility]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
