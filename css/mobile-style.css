@@ -598,3 +598,7 @@ hr.new1 {
 .user-email:focus {
   outline: none;
 }
+
+:hover::placeholder {
+  transform: translate(10px);
+}
