@@ -69,6 +69,17 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Added a link to my deployed project.
+
+- [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -92,7 +103,7 @@ Install this project with:
 
 ### Usage
 
--  I can help in building a product , feature or website Look through some of my work and experience! don’t hestiate to contact me.
+- I can help in building a product , feature or website Look through some of my work and experience! don’t hestiate to contact me.
 
 ### Run tests
 
