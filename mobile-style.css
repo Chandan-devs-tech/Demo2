@@ -21,7 +21,7 @@ body {
   padding-bottom: 30px;
 }
 
-.nav-links-effect:hover{
+.nav-links-effect:hover {
   opacity: 0.5;
   transform: scale(1.2);
 }
