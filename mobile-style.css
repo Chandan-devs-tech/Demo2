@@ -21,6 +21,10 @@ body {
   padding-bottom: 30px;
 }
 
+.potfolio:hover{
+  translate: scale(1.2);
+}
+
 header {
   display: flex;
   justify-content: space-between;
