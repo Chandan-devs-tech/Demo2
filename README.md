@@ -116,7 +116,7 @@ To run tests, run the following command:
 ### Deployment
 
 - Project is deployed using [GitHub Pages](https://pages.github.com/)
-- [🚀 Live Demo Link Provided Above](#live-demo)
+- [🚀 Live Demo Link Provided Above ⬆️](#live-demo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
