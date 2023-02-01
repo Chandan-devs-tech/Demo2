@@ -115,8 +115,8 @@ To run tests, run the following command:
 
 ### Deployment
 
-- Project is deployed using
-- git push <branch_name>
+- Project is deployed using [GitHub Pages](https://pages.github.com/)
+- [🚀 Live Demo Link Provided Above ⬆️](#live-demo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,8 +139,13 @@ To run tests, run the following command:
 
 > Features to be added:
 
-- [ ] **[Portfolio: application deploy]**
-- [ ] **[Portfolio: accessibility]**
+- [ ] **[Project: Application deploy]**
+- [ ] **[Project: Evaluate accessibility (pair programming)]**
+- [ ] **[Project: Mobile menu (pair programming)]**
+- [ ] **[Project: Details modal (pair programming)]**
+- [ ] **[Project: Validate contact form (pair programming)]**
+- [ ] **[Project: Preserve data in the browser (pair programming)]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
