@@ -65,6 +65,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 - **[Header section - Introduction]**
 - **[Work Portfolio section - Project description]**
 - **[About Section - About Myself]**
+- **[Contact-me-Section - Contact-Form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +139,8 @@ To run tests, run the following command:
 
 > Features to be added:
 
-- [ ] **[To Add Animations and Transitions To The Portfolio]**
+- [ ] **[Portfolio: application deploy]**
+- [ ] **[Portfolio: accessibility]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
