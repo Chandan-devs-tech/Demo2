@@ -139,7 +139,6 @@ To run tests, run the following command:
 
 > Features to be added:
 
-- [ ] **[Project: Application deploy]**
 - [ ] **[Project: Evaluate accessibility (pair programming)]**
 - [ ] **[Project: Mobile menu (pair programming)]**
 - [ ] **[Project: Details modal (pair programming)]**
