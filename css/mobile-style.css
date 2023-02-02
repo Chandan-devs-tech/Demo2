@@ -43,7 +43,7 @@ header {
   font-weight: 700;
   font-size: 18px;
   line-height: 20px;
-  color: #6070ff;
+  color: #1414FF;
   cursor: pointer;
   text-decoration: none;
 }
@@ -112,7 +112,7 @@ header {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #7f8cff;
+  color: #142CFF;
   margin-bottom: 1rem;
   cursor: pointer;
   text-decoration: none;
@@ -228,7 +228,7 @@ header {
   font-size: 12px;
   line-height: 16px;
   letter-spacing: 0.03em;
-  color: #6070ff;
+  color: #0018F5;
   padding: 4px 12px;
   background: #ebebff;
   border-radius: 8px;
@@ -308,7 +308,7 @@ header {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #7f8cff;
+  color: #1428FF;
 }
 
 .about-icons {
@@ -491,7 +491,7 @@ hr.new1 {
 .footer-container {
   height: auto;
   width: 100%;
-  background: #6070ff;
+  background: #0F2BFF;
   background-image: url("../Assets/contact\ form\ shapes-mobile.svg");
   background-repeat: no-repeat;
   background-size: 480px 735px;
@@ -527,6 +527,7 @@ hr.new1 {
   text-align: center;
   color: #ebebff;
   padding-bottom: 35px;
+  background: #0F2BFF;
 }
 
 .contact-form {
@@ -592,7 +593,7 @@ hr.new1 {
   line-height: 24px;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #6070ff;
+  color: #142CFF;
 }
 
 .form-btn:hover {
