@@ -259,7 +259,6 @@
             class="contact-form"
             method="post"
           >
-            <label for="user_name">
               <input
                 type="text"
                 class="user-name"
@@ -267,20 +266,16 @@
                 id="user_name"
                 placeholder="Name"
                 required
-                maxlength="30"
+                maxlength="30" aria-label="Name"
               />
-            </label>
-            <label for="user_email">
               <input
                 type="email"
                 class="user-email"
                 name="user_email"
                 id="user_email"
                 placeholder="Email"
-                required
+                required aria-label="Email"
               />
-            </label>
-            <label for="message">
               <textarea
                 type="text"
                 class="user-message"
@@ -290,9 +285,8 @@
                 required
                 maxlength="500"
                 cols="10"
-                rows="5"
+                rows="5" aria-label="Write your message here"
               ></textarea>
-            </label>
             <div class="btn-center">
               <button type="button" class="form-btn">Get In Touch</button>
             </div>
